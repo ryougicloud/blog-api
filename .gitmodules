@@ -1,0 +1,3 @@
+[submodule "web/blog-admin"]
+	path = web/blog-admin
+	url = https://github.com/Guiyunweb/blog-admin.git
